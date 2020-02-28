@@ -16,3 +16,6 @@ plt.hist(x)
 plt.show()
 
 print("I am a champion on Science!")
+
+## Adding standard deviation
+print("Stand.dev", np.std(x))

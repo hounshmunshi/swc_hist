@@ -19,3 +19,5 @@ print("I am a champion on Science!")
 
 ## Adding standard deviation
 print("Stand.dev", np.std(x))
+
+I need to do more.
